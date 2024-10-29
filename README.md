@@ -4,15 +4,15 @@ This is a simple console-based application that allows users to add weapons to a
 Features - 
 
 Categories of Weapons: Users can choose from:
-Pistols
-Assault Rifles
-Thrown Weapons
-Fighter Jets
-Miscellaneous Weapons
+Pistols,
+Assault Rifles,
+Thrown Weapons,
+Fighter Jets,
+Miscellaneous Weapons.
 
 Cart Management:
-Add weapons to the cart
-Display the current cart
-Remove specific items from the cart
-Clear the entire cart
-Print an invoice for checkout
+Add weapons to the cart,
+Display the current cart,
+Remove specific items from the cart,
+Clear the entire cart,
+Print an invoice for checkout.
